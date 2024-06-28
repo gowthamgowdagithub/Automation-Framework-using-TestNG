@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mySuite">
+<listeners>
+<listener class-name="com.training.Utilities.TestListeners"></listener>
+</listeners>
+<test name="MyTest1">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForLogin"></class>
+</classes>
+</test>
+
+<test name="MyTest2">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCaseForUserMenu"></class>
+</classes>
+</test>
+
+<test name="MyTest3">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForCreateAccount"></class>
+</classes>
+</test>
+
+<test name="MyTest4">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForOpportunities"></class>
+</classes>
+</test>
+
+<test name="MyTest5">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForLeads"></class>
+</classes>
+</test>
+
+<test name="MyTest6">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForContacts"></class>
+</classes>
+</test>
+
+<test name="MyTest7">
+<parameter name="browserName" value="chrome"></parameter>
+<classes>
+<class name="com.training.Test.SalesForceAutomationTestCasesForRandomScenarios"></class>
+</classes>
+</test>
+
+</suite>

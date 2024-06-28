@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="38" passed="30" failed="8" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T14:44:36 GMT-07:00" name="mySuite" finished-at="2024-06-22T14:54:22 GMT-07:00" duration-ms="586142">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T14:44:36 GMT-07:00" name="MyTest1" finished-at="2024-06-22T14:45:11 GMT-07:00" duration-ms="35144">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:36 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:44:36 GMT-07:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:36 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:44:40 GMT-07:00" duration-ms="4088" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase1()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:40 GMT-07:00" name="TestCase1" finished-at="2024-06-22T14:44:42 GMT-07:00" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:42 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:44:42 GMT-07:00" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:42 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:44:45 GMT-07:00" duration-ms="2476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase2()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:45 GMT-07:00" name="TestCase2" finished-at="2024-06-22T14:44:47 GMT-07:00" duration-ms="2758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:47 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:44:48 GMT-07:00" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:48 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:44:50 GMT-07:00" duration-ms="2457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase3()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:50 GMT-07:00" name="TestCase3" finished-at="2024-06-22T14:44:58 GMT-07:00" duration-ms="7799" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='username_container']/div"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63592}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d717672ccdcdaf424a186749411c87c
+*** Element info: {Using=xpath, value=//div[@id='username_container']/div}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='username_container']/div"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63592}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d717672ccdcdaf424a186749411c87c
+*** Element info: {Using=xpath, value=//div[@id='username_container']/div}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForLogin.TestCase3(SalesForceAutomationTestCasesForLogin.java:66)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:58 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:44:58 GMT-07:00" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:44:58 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:45:00 GMT-07:00" duration-ms="1645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase4()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:00 GMT-07:00" name="TestCase4" finished-at="2024-06-22T14:45:02 GMT-07:00" duration-ms="1835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:02 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:45:02 GMT-07:00" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:02 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:45:05 GMT-07:00" duration-ms="2419" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase5()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:05 GMT-07:00" name="TestCase5" finished-at="2024-06-22T14:45:11 GMT-07:00" duration-ms="6034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:11 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:45:11 GMT-07:00" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLogin@2371aaca]" started-at="2024-06-22T14:45:11 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:45:11 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForLogin -->
+    </test> <!-- MyTest1 -->
+    <test started-at="2024-06-22T14:45:11 GMT-07:00" name="MyTest2" finished-at="2024-06-22T14:46:32 GMT-07:00" duration-ms="80737">
+      <class name="com.training.Test.SalesForceAutomationTestCaseForUserMenu">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:11 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:45:11 GMT-07:00" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:11 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:45:14 GMT-07:00" duration-ms="2800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase5()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:14 GMT-07:00" name="TestCase5" finished-at="2024-06-22T14:45:22 GMT-07:00" duration-ms="7888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:22 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:45:22 GMT-07:00" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:22 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:45:25 GMT-07:00" duration-ms="2417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase6()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:25 GMT-07:00" name="TestCase6" finished-at="2024-06-22T14:45:52 GMT-07:00" duration-ms="26978" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#tailBreadcrumbNode"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 217c6fa9179e6616bfc072cb40232a74
+*** Element info: {Using=id, value=tailBreadcrumbNode}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#tailBreadcrumbNode"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 217c6fa9179e6616bfc072cb40232a74
+*** Element info: {Using=id, value=tailBreadcrumbNode}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCaseForUserMenu.TestCase6(SalesForceAutomationTestCaseForUserMenu.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:52 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:45:52 GMT-07:00" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:52 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:45:54 GMT-07:00" duration-ms="2278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase7()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:45:54 GMT-07:00" name="TestCase7" finished-at="2024-06-22T14:46:12 GMT-07:00" duration-ms="17619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase7 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:12 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:46:12 GMT-07:00" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:12 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:46:14 GMT-07:00" duration-ms="2481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase8()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:14 GMT-07:00" name="TestCase8" finished-at="2024-06-22T14:46:22 GMT-07:00" duration-ms="7464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase8 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:22 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:46:22 GMT-07:00" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:22 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:46:25 GMT-07:00" duration-ms="2436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase9()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:25 GMT-07:00" name="TestCase9" finished-at="2024-06-22T14:46:32 GMT-07:00" duration-ms="7251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase9 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:32 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:46:32 GMT-07:00" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCaseForUserMenu@7ec3394b]" started-at="2024-06-22T14:46:32 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:46:32 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCaseForUserMenu -->
+    </test> <!-- MyTest2 -->
+    <test started-at="2024-06-22T14:46:32 GMT-07:00" name="MyTest3" finished-at="2024-06-22T14:48:15 GMT-07:00" duration-ms="102520">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForCreateAccount">
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:32 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:46:35 GMT-07:00" duration-ms="2695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:32 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:46:32 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestCase10()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:35 GMT-07:00" name="TestCase10" finished-at="2024-06-22T14:46:49 GMT-07:00" duration-ms="14152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase10 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:49 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:46:49 GMT-07:00" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:49 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:46:52 GMT-07:00" duration-ms="2749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase11()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:46:52 GMT-07:00" name="TestCase11" finished-at="2024-06-22T14:47:12 GMT-07:00" duration-ms="19788" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='fcf']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c354503b122654b2d2e63f6f649663b3
+*** Element info: {Using=xpath, value=//select[@id='fcf']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='fcf']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64048}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c354503b122654b2d2e63f6f649663b3
+*** Element info: {Using=xpath, value=//select[@id='fcf']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForCreateAccount.TestCase11(SalesForceAutomationTestCasesForCreateAccount.java:70)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase11 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:12 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:47:12 GMT-07:00" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:12 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:47:15 GMT-07:00" duration-ms="2746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase12()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:15 GMT-07:00" name="TestCase12" finished-at="2024-06-22T14:47:35 GMT-07:00" duration-ms="20056" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate element with text: katte
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate element with text: katte
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:147)
+at com.training.Base.BaseTest.selectDataFromDropDownByVisibleText(BaseTest.java:370)
+at com.training.Test.SalesForceAutomationTestCasesForCreateAccount.TestCase12(SalesForceAutomationTestCasesForCreateAccount.java:85)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase12 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:35 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:47:35 GMT-07:00" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:35 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:47:38 GMT-07:00" duration-ms="2978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase13()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:38 GMT-07:00" name="TestCase13" finished-at="2024-06-22T14:47:59 GMT-07:00" duration-ms="20642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase13 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:59 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:47:59 GMT-07:00" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:47:59 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:48:02 GMT-07:00" duration-ms="2564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase14()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:48:02 GMT-07:00" name="TestCase14" finished-at="2024-06-22T14:48:14 GMT-07:00" duration-ms="12678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase14 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:48:14 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:48:15 GMT-07:00" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForCreateAccount@6bea52d4]" started-at="2024-06-22T14:48:15 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:48:15 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForCreateAccount -->
+    </test> <!-- MyTest3 -->
+    <test started-at="2024-06-22T14:48:15 GMT-07:00" name="MyTest4" finished-at="2024-06-22T14:49:22 GMT-07:00" duration-ms="67431">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForOpportunities">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:15 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:48:15 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:15 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:48:17 GMT-07:00" duration-ms="2733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase15()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:17 GMT-07:00" name="TestCase15" finished-at="2024-06-22T14:48:27 GMT-07:00" duration-ms="9464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase15 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:27 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:48:27 GMT-07:00" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:27 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:48:30 GMT-07:00" duration-ms="3012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase16()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:30 GMT-07:00" name="TestCase16" finished-at="2024-06-22T14:48:43 GMT-07:00" duration-ms="12914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase16 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:43 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:48:43 GMT-07:00" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:43 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:48:46 GMT-07:00" duration-ms="2422" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase17()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:46 GMT-07:00" name="TestCase17" finished-at="2024-06-22T14:48:55 GMT-07:00" duration-ms="9821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase17 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:55 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:48:56 GMT-07:00" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:56 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:48:58 GMT-07:00" duration-ms="2707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase19()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:48:58 GMT-07:00" name="TestCase19" finished-at="2024-06-22T14:49:07 GMT-07:00" duration-ms="8833" status="FAIL">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression  because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cfe54318faabe92a2851e5dca0a5df
+*** Element info: {Using=xpath, value=}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression  because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '' is not a valid XPath expression."}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9cfe54318faabe92a2851e5dca0a5df
+*** Element info: {Using=xpath, value=}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForOpportunities.TestCase19(SalesForceAutomationTestCasesForOpportunities.java:127)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase19 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:49:07 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:49:08 GMT-07:00" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:49:08 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:49:11 GMT-07:00" duration-ms="3153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="Testcase18()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:49:11 GMT-07:00" name="Testcase18" finished-at="2024-06-22T14:49:22 GMT-07:00" duration-ms="11122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase18 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:49:22 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:49:22 GMT-07:00" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForOpportunities@31aa3ca5]" started-at="2024-06-22T14:49:22 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:49:22 GMT-07:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForOpportunities -->
+    </test> <!-- MyTest4 -->
+    <test started-at="2024-06-22T14:49:22 GMT-07:00" name="MyTest5" finished-at="2024-06-22T14:50:35 GMT-07:00" duration-ms="73180">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForLeads">
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:22 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:49:25 GMT-07:00" duration-ms="2778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:22 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:49:22 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestCase20()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:25 GMT-07:00" name="TestCase20" finished-at="2024-06-22T14:49:35 GMT-07:00" duration-ms="9783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase20 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:35 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:49:35 GMT-07:00" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:35 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:49:38 GMT-07:00" duration-ms="2611" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase21()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:38 GMT-07:00" name="TestCase21" finished-at="2024-06-22T14:49:44 GMT-07:00" duration-ms="6617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase21 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:44 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:49:44 GMT-07:00" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:44 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:49:47 GMT-07:00" duration-ms="2627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase22()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:49:47 GMT-07:00" name="TestCase22" finished-at="2024-06-22T14:50:06 GMT-07:00" duration-ms="18613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase22 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:06 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:50:06 GMT-07:00" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:06 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:50:09 GMT-07:00" duration-ms="2783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase23()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:09 GMT-07:00" name="TestCase23" finished-at="2024-06-22T14:50:19 GMT-07:00" duration-ms="10442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase23 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:19 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:50:19 GMT-07:00" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:19 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:50:22 GMT-07:00" duration-ms="2828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase24()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:22 GMT-07:00" name="TestCase24" finished-at="2024-06-22T14:50:35 GMT-07:00" duration-ms="13004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase24 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:35 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:50:35 GMT-07:00" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForLeads@4212a0c8]" started-at="2024-06-22T14:50:35 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:50:35 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForLeads -->
+    </test> <!-- MyTest5 -->
+    <test started-at="2024-06-22T14:50:35 GMT-07:00" name="MyTest6" finished-at="2024-06-22T14:52:28 GMT-07:00" duration-ms="113012">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForContacts">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:35 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:50:35 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:35 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:50:38 GMT-07:00" duration-ms="2799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase25()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:38 GMT-07:00" name="TestCase25" finished-at="2024-06-22T14:50:52 GMT-07:00" duration-ms="13859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase25 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:52 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:50:52 GMT-07:00" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:52 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:50:54 GMT-07:00" duration-ms="2114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase26()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:50:54 GMT-07:00" name="TestCase26" finished-at="2024-06-22T14:51:14 GMT-07:00" duration-ms="19223" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='00BIU00000CKTTn_listSelect']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37145f8f4c7fc22f610851a9ba2cc3b7
+*** Element info: {Using=xpath, value=//select[@id='00BIU00000CKTTn_listSelect']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='00BIU00000CKTTn_listSelect']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37145f8f4c7fc22f610851a9ba2cc3b7
+*** Element info: {Using=xpath, value=//select[@id='00BIU00000CKTTn_listSelect']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForContacts.TestCase26(SalesForceAutomationTestCasesForContacts.java:73)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase26 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:14 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:51:14 GMT-07:00" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:14 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:51:17 GMT-07:00" duration-ms="3140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase27()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:17 GMT-07:00" name="TestCase27" finished-at="2024-06-22T14:51:24 GMT-07:00" duration-ms="6709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase27 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:24 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:51:24 GMT-07:00" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:24 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:51:27 GMT-07:00" duration-ms="3011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase28()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:27 GMT-07:00" name="TestCase28" finished-at="2024-06-22T14:51:34 GMT-07:00" duration-ms="7245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase28 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:34 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:51:35 GMT-07:00" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:35 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:51:37 GMT-07:00" duration-ms="2785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase29()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:37 GMT-07:00" name="TestCase29" finished-at="2024-06-22T14:51:48 GMT-07:00" duration-ms="10630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase29 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:48 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:51:48 GMT-07:00" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:48 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:51:51 GMT-07:00" duration-ms="2785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase30()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:51:51 GMT-07:00" name="TestCase30" finished-at="2024-06-22T14:52:02 GMT-07:00" duration-ms="10557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase30 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:02 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:52:02 GMT-07:00" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:02 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:52:05 GMT-07:00" duration-ms="2869" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase31()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:05 GMT-07:00" name="TestCase31" finished-at="2024-06-22T14:52:15 GMT-07:00" duration-ms="10820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase31 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:15 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:52:16 GMT-07:00" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:16 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:52:18 GMT-07:00" duration-ms="2772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase32()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:18 GMT-07:00" name="TestCase32" finished-at="2024-06-22T14:52:28 GMT-07:00" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase32 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:28 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:52:28 GMT-07:00" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForContacts@6da00fb9]" started-at="2024-06-22T14:52:28 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:52:28 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForContacts -->
+    </test> <!-- MyTest6 -->
+    <test started-at="2024-06-22T14:52:28 GMT-07:00" name="MyTest7" finished-at="2024-06-22T14:54:22 GMT-07:00" duration-ms="113339">
+      <class name="com.training.Test.SalesForceAutomationTestCasesForRandomScenarios">
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:28 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:52:31 GMT-07:00" duration-ms="2689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:28 GMT-07:00" name="beforeTest" finished-at="2024-06-22T14:52:28 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestCase33()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:31 GMT-07:00" name="TestCase33" finished-at="2024-06-22T14:52:50 GMT-07:00" duration-ms="18401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase33 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:50 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:52:50 GMT-07:00" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:50 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:52:52 GMT-07:00" duration-ms="2428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase34()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:52:52 GMT-07:00" name="TestCase34" finished-at="2024-06-22T14:53:13 GMT-07:00" duration-ms="20919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase34 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:13 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:53:13 GMT-07:00" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:13 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:53:16 GMT-07:00" duration-ms="2610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase35()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:16 GMT-07:00" name="TestCase35" finished-at="2024-06-22T14:53:34 GMT-07:00" duration-ms="17939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase35 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:34 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:53:34 GMT-07:00" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:34 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:53:37 GMT-07:00" duration-ms="2999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase36()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:37 GMT-07:00" name="TestCase36" finished-at="2024-06-22T14:53:59 GMT-07:00" duration-ms="22026" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Tuesday 18 June 2024']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7799af7e19d9d4a809981252224fd7eb
+*** Element info: {Using=xpath, value=//a[text()='Tuesday 18 June 2024']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Tuesday 18 June 2024']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7799af7e19d9d4a809981252224fd7eb
+*** Element info: {Using=xpath, value=//a[text()='Tuesday 18 June 2024']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForRandomScenarios.TestCase36(SalesForceAutomationTestCasesForRandomScenarios.java:150)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase36 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:59 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:53:59 GMT-07:00" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="beforeMethodStart(java.lang.String)[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:53:59 GMT-07:00" name="beforeMethodStart" finished-at="2024-06-22T14:54:03 GMT-07:00" duration-ms="3072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodStart -->
+        <test-method signature="TestCase37()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:54:03 GMT-07:00" name="TestCase37" finished-at="2024-06-22T14:54:21 GMT-07:00" duration-ms="18893" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Tuesday 18 June 2024']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e9f30ff945808eb19739ddefd0871148
+*** Element info: {Using=xpath, value=//a[text()='Tuesday 18 June 2024']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Tuesday 18 June 2024']"}
+  (Session info: chrome=126.0.6478.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9INP9V7', ip: '10.0.0.177', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.62, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\Gowtham\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e9f30ff945808eb19739ddefd0871148
+*** Element info: {Using=xpath, value=//a[text()='Tuesday 18 June 2024']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.training.Test.SalesForceAutomationTestCasesForRandomScenarios.TestCase37(SalesForceAutomationTestCasesForRandomScenarios.java:187)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase37 -->
+        <test-method is-config="true" signature="afterMethodEnds()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:54:22 GMT-07:00" name="afterMethodEnds" finished-at="2024-06-22T14:54:22 GMT-07:00" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodEnds -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.training.Test.SalesForceAutomationTestCasesForRandomScenarios@3e10dc6]" started-at="2024-06-22T14:54:22 GMT-07:00" name="afterTest" finished-at="2024-06-22T14:54:22 GMT-07:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.training.Test.SalesForceAutomationTestCasesForRandomScenarios -->
+    </test> <!-- MyTest7 -->
+  </suite> <!-- mySuite -->
+</testng-results>

@@ -1,0 +1,894 @@
+20240622 14:44:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest1----TestCase has been started-----
+20240622 14:44:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:44:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:44:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:44:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:44:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:44:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase1------Testcase Started------
+20240622 14:44:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in username textbox.
+20240622 14:44:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in password textbox.
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please enter your password.
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase1-----Testcase got successful-----
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:44:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:44:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:44:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:44:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:44:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase2------Testcase Started------
+20240622 14:44:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:44:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:44:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:44:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:44:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase2-----Testcase got successful-----
+20240622 14:44:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:44:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:44:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:44:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:44:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:44:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:44:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase3------Testcase Started------
+20240622 14:44:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in username textbox.
+20240622 14:44:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in password textbox.
+20240622 14:44:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The rememberMe is clicked.
+20240622 14:44:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:44:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The usermenu is clicked.
+20240622 14:44:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The logout is clicked.
+20240622 14:44:58 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase3-----Testcase got failed------
+20240622 14:44:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:44:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:44:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:44:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:44:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase4------Testcase Started------
+20240622 14:45:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in username textbox.
+20240622 14:45:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The forgetPasswordLink is clicked.
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The usernameData has been entered in username1 textbox.
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The submit is clicked.
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Usernames are in the form of an email address.
+Passwords are case sensitive.
+Sandbox Login
+20240622 14:45:02 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The actual and expected text are not same.
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase4-----Testcase got successful-----
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:45:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:45:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase5------Testcase Started------
+20240622 14:45:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 123 has been entered in username textbox.
+20240622 14:45:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 22124 has been entered in password textbox.
+20240622 14:45:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:45:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240622 14:45:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase5-----Testcase got successful-----
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest1----TestCase has been finished-----
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest2----TestCase has been started-----
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:45:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:45:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase5------Testcase Started------
+20240622 14:45:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:45:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:45:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:45:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:45:22 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase5-----Testcase got successful-----
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:45:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:45:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase6------Testcase Started------
+20240622 14:45:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:45:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:45:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:45:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:45:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:45:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:45:31 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:45:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:45:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:45:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20240622 14:45:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The My profile is clicked.
+20240622 14:45:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Click on edit is clicked.
+20240622 14:45:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Thecontact info frame is identified and entered inside that
+20240622 14:45:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The click on about is clicked.
+20240622 14:45:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Katteri Puttaraju has been entered in Last Name textbox.
+20240622 14:45:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save all is clicked.
+20240622 14:45:52 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase6-----Testcase got failed------
+20240622 14:45:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:45:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:45:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:45:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:45:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:45:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:45:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:45:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase7------Testcase Started------
+20240622 14:45:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:45:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:45:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:45:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:46:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:46:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:46:00 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:46:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:46:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:46:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20240622 14:46:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The My settings is clicked.
+20240622 14:46:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Personal Link is clicked.
+20240622 14:46:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login History is clicked.
+20240622 14:46:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Downlaod Login History is clicked.
+20240622 14:46:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheLogin History is displayed.
+20240622 14:46:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Login History ~ Salesforce - Developer Edition
+20240622 14:46:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Display and Layout is clicked.
+20240622 14:46:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Customize my tab is clicked.
+20240622 14:46:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chatter has been selected form the dropdown.
+20240622 14:46:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Clicked On Add is clicked.
+20240622 14:46:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:46:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chatter is displayed.
+20240622 14:46:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Chatter
+20240622 14:46:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Chatter is same as expected Chatter.
+20240622 14:46:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Email is clicked.
+20240622 14:46:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The My email settins is clicked.
+20240622 14:46:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Gowtham Gowda Katteri Puttaraju has been entered in Email Name textbox.
+20240622 14:46:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The gowthamgowda2000@gmail.com has been entered in Email Address textbox.
+20240622 14:46:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Automatic BCC is clicked.
+20240622 14:46:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:46:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheEmail My Settings is displayed.
+20240622 14:46:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: My Email Settings ~ Salesforce - Developer Edition
+20240622 14:46:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The calendar is clicked.
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Activity Remainder is clicked.
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Open a test remainder is clicked.
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - ThePop-up page is displayed.
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Activity Reminders ~ Salesforce - Developer Edition
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase7-----Testcase got successful-----
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:46:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:46:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:46:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:46:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:46:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase8------Testcase Started------
+20240622 14:46:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:46:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:46:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:46:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:46:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:46:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:46:21 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:46:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:46:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:46:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Developer console is clicked.
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheDeveloper console is displayed.
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Home Page ~ Salesforce - Developer Edition
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase8-----Testcase got successful-----
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:46:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:46:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:46:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:46:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:46:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase9------Testcase Started------
+20240622 14:46:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:46:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:46:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:46:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:46:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:46:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:46:31 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:46:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:46:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:46:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - My Profile
+My Settings
+Developer Console
+Switch to Lightning Experience
+Logout
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheLogin Page is displayed.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The current url of the page is: https://tekarch-f-dev-ed.develop.my.salesforce.com/secur/logout.jsp
+20240622 14:46:32 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The current and expected url are not same.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase9-----Testcase got successful-----
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest2----TestCase has been finished-----
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest3----TestCase has been started-----
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:46:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:46:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:46:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:46:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:46:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase10------Testcase Started------
+20240622 14:46:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:46:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:46:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:46:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:46:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Accounts is clicked.
+20240622 14:46:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The New Button is clicked.
+20240622 14:46:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Gowda has been entered in Account Name textbox.
+20240622 14:46:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Technology Partner has been selected form the dropdown.
+20240622 14:46:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The High has been selected form the dropdown.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Account Name is displayed.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowda
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Account Name is same as expected Account Name.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheAccount created page is displayed.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Account: Gowda ~ Salesforce - Developer Edition
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase10-----Testcase got successful-----
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:46:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:46:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:46:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:46:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:46:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase11------Testcase Started------
+20240622 14:46:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:46:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:46:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:46:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:46:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Accounts is clicked.
+20240622 14:47:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Create new view is clicked.
+20240622 14:47:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte has been entered in View name textbox.
+20240622 14:47:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte has been entered in View Unique name textbox.
+20240622 14:47:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:47:12 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase11-----Testcase got failed------
+20240622 14:47:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:47:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:47:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:47:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:47:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:47:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:47:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:47:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase12------Testcase Started------
+20240622 14:47:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:47:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:47:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:47:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:47:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Accounts is clicked.
+20240622 14:47:35 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase12-----Testcase got failed------
+20240622 14:47:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:47:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:47:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:47:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:47:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:47:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:47:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:47:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase13------Testcase Started------
+20240622 14:47:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:47:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:47:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:47:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:47:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Accounts is clicked.
+20240622 14:47:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Merge is clicked.
+20240622 14:47:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The gowda has been entered in Find Accounts textbox.
+20240622 14:47:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Find Accounts is clicked.
+20240622 14:47:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Row1 is clicked.
+20240622 14:47:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Row2 is clicked.
+20240622 14:47:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Next is clicked.
+20240622 14:47:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Merge Accounts is clicked.
+20240622 14:47:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The alert Text is: These records will be merged into one record using the selected values. Merging can't be undone. Proceed with the record merge?
+20240622 14:47:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The window alert has been accepted.
+20240622 14:47:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Recently Viewed has been selected form the dropdown.
+20240622 14:47:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase13-----Testcase got successful-----
+20240622 14:47:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:47:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:47:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:48:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:48:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:48:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:48:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase14------Testcase Started------
+20240622 14:48:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:48:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:48:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:48:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:48:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Accounts is clicked.
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Account History is clicked.
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheUnsaved Report Page is displayed.
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Unsaved Report ~ Salesforce - Developer Edition
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Unsaved Reports is displayed.
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Unsaved Report
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Unsaved Reports is same as expected Unsaved Reports.
+20240622 14:48:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Form is clicked.
+20240622 14:48:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Date is clicked.
+20240622 14:48:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The To Date is clicked.
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Report1 has been entered in Report Name textbox.
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The ReportNew1 has been entered in Report unique name textbox.
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save button is clicked.
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase14-----Testcase got successful-----
+20240622 14:48:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest3----TestCase has been finished-----
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest4----TestCase has been started-----
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:48:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:48:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:48:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:48:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:48:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase15------Testcase Started------
+20240622 14:48:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:48:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:48:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:48:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunities is clicked.
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All Opportunities
+Closing Next Month
+Closing This Month
+My Opportunities
+New Last Week
+New This Week
+Opportunity Pipeline
+Private
+Recently Viewed Opportunities
+Won
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The visible element is displayed.
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All Opportunities
+Closing Next Month
+Closing This Month
+My Opportunities
+New Last Week
+New This Week
+Opportunity Pipeline
+Private
+Recently Viewed Opportunities
+Won
+20240622 14:48:27 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The visible element is not displayed and expected text is not similar.
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase15-----Testcase got successful-----
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:48:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:48:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:48:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:48:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:48:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase16------Testcase Started------
+20240622 14:48:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:48:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:48:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:48:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:48:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunities is clicked.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The New Button is clicked.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheOpportunities page title is displayed.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Opportunity Edit: New Opportunity ~ Salesforce - Developer Edition
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Gowda has been entered in Opportunities name textbox.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The May2024 has been entered in Account name textbox.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Close Date is clicked.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Date is clicked.
+20240622 14:48:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Qualification has been selected form the dropdown.
+20240622 14:48:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 10 has been entered in Probability textbox.
+20240622 14:48:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Web has been selected form the dropdown.
+20240622 14:48:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in Primary Campaign source textbox.
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheOpportunity Page is displayed.
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Opportunity: Gowda ~ Salesforce - Developer Edition
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase16-----Testcase got successful-----
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:48:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:48:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:48:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:48:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:48:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase17------Testcase Started------
+20240622 14:48:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:48:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:48:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:48:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:48:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunities is clicked.
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunity pipeline link is clicked.
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheOpportunity pipeline page is displayed.
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Opportunity Pipeline ~ Salesforce - Developer Edition
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunity pipeline is displayed.
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Opportunity Pipeline
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Opportunity pipeline is same as expected Opportunity pipeline.
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase17-----Testcase got successful-----
+20240622 14:48:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:48:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:48:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:48:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:48:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase19------Testcase Started------
+20240622 14:48:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:48:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:49:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:49:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:49:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunities is clicked.
+20240622 14:49:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunity Summary is clicked.
+20240622 14:49:07 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase19-----Testcase got failed------
+20240622 14:49:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:49:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:49:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:49:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:49:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:49:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:49:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:49:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Testcase18------Testcase Started------
+20240622 14:49:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:49:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:49:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:49:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:49:20 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Opportunities is clicked.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Stuck Opportunities is clicked.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheStuck Opportunities page is displayed.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Stuck Opportunities ~ Salesforce - Developer Edition
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Stuck Opportunities is displayed.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Stuck Opportunities
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Stuck Opportunities is same as expected Stuck Opportunities.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Testcase18-----Testcase got successful-----
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest4----TestCase has been finished-----
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest5----TestCase has been started-----
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:49:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:49:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase20------Testcase Started------
+20240622 14:49:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:49:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:49:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:49:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:49:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:49:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Home is clicked.
+20240622 14:49:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:49:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:49:34 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:49:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:49:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240622 14:49:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase20-----Testcase got successful-----
+20240622 14:49:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:49:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:49:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:49:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:49:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:49:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:49:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase21------Testcase Started------
+20240622 14:49:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:49:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:49:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:49:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The List of leads is clicked.
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All Open Leads
+My Unread Leads
+Recently Viewed Leads
+Today's Leads
+View - Custom 1
+View - Custom 2
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase21-----Testcase got successful-----
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:49:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:49:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:49:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:49:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:49:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase22------Testcase Started------
+20240622 14:49:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:49:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:49:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:49:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:49:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:49:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Today's Leads has been selected form the dropdown.
+20240622 14:49:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:49:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:49:55 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:49:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:49:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240622 14:49:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Email textbox.
+20240622 14:49:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:50:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:50:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Go Button is clicked.
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheLead Page view is displayed.
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Leads ~ Salesforce - Developer Edition
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The selected option is: Today's Leads
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase22-----Testcase got successful-----
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:50:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:50:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:50:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:50:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:50:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase23------Testcase Started------
+20240622 14:50:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:50:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:50:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:50:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:50:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:50:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Today's Leads has been selected form the dropdown.
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Go Button is clicked.
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheLead Page view is displayed.
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Leads ~ Salesforce - Developer Edition
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The selected option is: Today's Leads
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase23-----Testcase got successful-----
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:50:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:50:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:50:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:50:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:50:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase24------Testcase Started------
+20240622 14:50:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:50:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:50:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:50:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:50:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Leads is clicked.
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The New Button is clicked.
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNew Lead Creation page is displayed.
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Lead Edit: New Lead ~ Salesforce - Developer Edition
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The ABCD has been entered in Last Name textbox.
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:50:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - 
+20240622 14:50:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The ABCD has been entered in Company Name textbox.
+20240622 14:50:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:50:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - 
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save Button is clicked.
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - ABCD
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNewly Created Lead Page is displayed.
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Lead: ABCD ~ Salesforce - Developer Edition
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase24-----Testcase got successful-----
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest5----TestCase has been finished-----
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest6----TestCase has been started-----
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:50:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:50:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:50:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:50:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:50:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase25------Testcase Started------
+20240622 14:50:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:50:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:50:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:50:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:50:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:50:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:50:45 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:50:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The New button is clicked.
+20240622 14:50:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The karthi has been entered in Last name textbox.
+20240622 14:50:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The May2024 has been entered in Account Name textbox.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Newly Created Account Name is displayed.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - karthi
+20240622 14:50:52 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Newly Created Account Name is not displayed and expected text is not similar.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - karthi
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The element present inside the drop down.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNewly Created Account Page is displayed.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contact: karthi ~ Salesforce - Developer Edition
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase25-----Testcase got successful-----
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:50:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:50:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:50:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:50:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:50:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase26------Testcase Started------
+20240622 14:50:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:50:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:50:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:50:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:51:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:51:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:51:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Click on view is clicked.
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNew View Page is displayed.
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Create New View ~ Salesforce - Developer Edition
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Create New View
+20240622 14:51:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Amar has been entered in View Name textbox.
+20240622 14:51:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Amar has been entered in Unique Name textbox.
+20240622 14:51:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:51:14 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase26-----Testcase got failed------
+20240622 14:51:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:51:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:51:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:51:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:51:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:51:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:51:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:51:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase27------Testcase Started------
+20240622 14:51:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:51:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:51:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:51:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Recently Created has been selected form the dropdown.
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Recently Created
+Recently Modified
+Recently Viewed
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase27-----Testcase got successful-----
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:51:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:51:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:51:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:51:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:51:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase28------Testcase Started------
+20240622 14:51:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:51:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:51:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:51:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The My Contacts has been selected form the dropdown.
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheMy contacts page is displayed.
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The selected option is: My Contacts
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase28-----Testcase got successful-----
+20240622 14:51:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:51:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:51:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:51:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:51:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:51:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:51:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase29------Testcase Started------
+20240622 14:51:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:51:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:51:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:51:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:51:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:51:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:51:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contact name is clicked.
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The page name is displayed.
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - karthi
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual page name is same as expected page name.
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Thecontact page of a selected account is displayed.
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contact: karthi ~ Salesforce - Developer Edition
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase29-----Testcase got successful-----
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:51:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:51:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:51:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:51:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:51:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase30------Testcase Started------
+20240622 14:51:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:51:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:51:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:51:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:51:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:51:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:51:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:52:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Click on view is clicked.
+20240622 14:52:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNew View Page is displayed.
+20240622 14:52:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Create New View ~ Salesforce - Developer Edition
+20240622 14:52:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The EFGH has been entered in Unique Name textbox.
+20240622 14:52:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Error: You must enter a value
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase30-----Testcase got successful-----
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:52:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:52:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:52:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:52:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:52:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase31------Testcase Started------
+20240622 14:52:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:52:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:52:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:52:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:52:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:52:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:52:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:52:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Click on view is clicked.
+20240622 14:52:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheNew View Page is displayed.
+20240622 14:52:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Create New View ~ Salesforce - Developer Edition
+20240622 14:52:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The ABCD has been entered in View Name textbox.
+20240622 14:52:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The EFGH has been entered in Unique Name textbox.
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Cancel is clicked.
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All Contacts
+amar
+Birthdays This Month
+Bulk SMS Contacts
+GowthamGowda
+June2024
+karthi
+karthik
+karthik
+karthikS
+karthikSS
+My Contacts
+New Last Week
+New This Week
+Recently Viewed Contacts
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The list of visible elements are:
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All Contacts
+amar
+Birthdays This Month
+Bulk SMS Contacts
+GowthamGowda
+June2024
+karthi
+karthik
+karthik
+karthikS
+karthikSS
+My Contacts
+New Last Week
+New This Week
+Recently Viewed Contacts
+20240622 14:52:15 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - There is no such element found in drop down.
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase31-----Testcase got successful-----
+20240622 14:52:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:52:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:52:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:52:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:52:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:52:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:52:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase32------Testcase Started------
+20240622 14:52:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:52:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:52:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:52:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:52:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Contacts is clicked.
+20240622 14:52:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheContacts Page is displayed.
+20240622 14:52:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Contacts: Home ~ Salesforce - Developer Edition
+20240622 14:52:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The New button is clicked.
+20240622 14:52:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Indian has been entered in Last name textbox.
+20240622 14:52:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Global Media has been entered in Account Name textbox.
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save and New button is clicked.
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase32-----Testcase got successful-----
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest6----TestCase has been finished-----
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest7----TestCase has been started-----
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is before test.
+20240622 14:52:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:52:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:52:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:52:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:52:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase33------Testcase Started------
+20240622 14:52:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:52:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:52:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:52:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Home is clicked.
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheHome Page is displayed.
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Salesforce - Developer Edition
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Account holder name is displayed.
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Katteri Puttaraju
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Account holder name is same as expected Account holder name.
+20240622 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Account holder name is a link.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Profile Name is clicked.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Profile Owner Name is displayed.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Katteri Puttaraju 
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Profile Owner Name is same as expected Profile Owner Name.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Username is displayed.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Ka...
+20240622 14:52:47 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The Username is not displayed and expected text is not similar.
+20240622 14:52:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The My profile is clicked.
+20240622 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase33-----Testcase got successful-----
+20240622 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:52:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:52:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase34------Testcase Started------
+20240622 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:52:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:52:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Home is clicked.
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TheHome Page is displayed.
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Salesforce - Developer Edition
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Account holder name is displayed.
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Gowtham Gowda Katteri Puttaraju
+20240622 14:53:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual Account holder name is same as expected Account holder name.
+20240622 14:53:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Profile Name is clicked.
+20240622 14:53:08 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Edit is clicked.
+20240622 14:53:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Theiframe frame is identified and entered inside that
+20240622 14:53:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The About is clicked.
+20240622 14:53:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Gowtham Gowda has been entered in First Name textbox.
+20240622 14:53:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Abcd has been entered in Last Name textbox.
+20240622 14:53:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save All is clicked.
+20240622 14:53:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase34-----Testcase got successful-----
+20240622 14:53:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:53:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:53:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:53:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:53:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:53:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:53:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase35------Testcase Started------
+20240622 14:53:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:53:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:53:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:53:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:53:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The All Tabs is clicked.
+20240622 14:53:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Customize My tab is clicked.
+20240622 14:53:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chatter has been selected form the dropdown.
+20240622 14:53:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remove is clicked.
+20240622 14:53:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Save is clicked.
+20240622 14:53:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu is clicked.
+20240622 14:53:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240622 14:53:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Email textbox.
+20240622 14:53:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:53:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:53:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase35-----Testcase got successful-----
+20240622 14:53:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:53:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:53:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:53:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:53:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:53:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:53:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase36------Testcase Started------
+20240622 14:53:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:53:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:53:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:53:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:53:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Home is clicked.
+20240622 14:53:59 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase36-----Testcase got failed------
+20240622 14:53:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:53:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:53:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:53:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - -------BeforeMethodStart-----
+20240622 14:54:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240622 14:54:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240622 14:54:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240622 14:54:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - TestCase37------Testcase Started------
+20240622 14:54:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Wait has been added.
+20240622 14:54:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in Username textbox.
+20240622 14:54:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240622 14:54:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The clickOnLoginButton is clicked.
+20240622 14:54:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Home is clicked.
+20240622 14:54:21 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - TestCase37-----Testcase got failed------
+20240622 14:54:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Screen Shot has been taken.
+20240622 14:54:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - --------AfterMethodsEnds------
+20240622 14:54:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240622 14:54:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - This is after test.
+20240622 14:54:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - MyTest7----TestCase has been finished-----
